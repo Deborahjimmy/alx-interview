@@ -18,6 +18,7 @@ Additional info
 Resources
 Python 3.6
 Try It On Your Machine computer
-git clone https://github.com/deborahjimmy/alx-interview
+git clone https://github.com/Deborahjimmy/alx-interview.git
+
 cd 0x03-minimum_operations
 ./main_files/0-main
